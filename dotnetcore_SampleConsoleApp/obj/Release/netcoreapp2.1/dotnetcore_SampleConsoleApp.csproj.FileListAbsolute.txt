@@ -1,0 +1,11 @@
+C:\Users\varunkumar.poosala\source\repos\dotnetcore_SampleConsoleApp\dotnetcore_SampleConsoleApp\bin\Release\netcoreapp2.1\dotnetcore_SampleConsoleApp.deps.json
+C:\Users\varunkumar.poosala\source\repos\dotnetcore_SampleConsoleApp\dotnetcore_SampleConsoleApp\bin\Release\netcoreapp2.1\dotnetcore_SampleConsoleApp.runtimeconfig.json
+C:\Users\varunkumar.poosala\source\repos\dotnetcore_SampleConsoleApp\dotnetcore_SampleConsoleApp\bin\Release\netcoreapp2.1\dotnetcore_SampleConsoleApp.runtimeconfig.dev.json
+C:\Users\varunkumar.poosala\source\repos\dotnetcore_SampleConsoleApp\dotnetcore_SampleConsoleApp\bin\Release\netcoreapp2.1\dotnetcore_SampleConsoleApp.dll
+C:\Users\varunkumar.poosala\source\repos\dotnetcore_SampleConsoleApp\dotnetcore_SampleConsoleApp\bin\Release\netcoreapp2.1\dotnetcore_SampleConsoleApp.pdb
+C:\Users\varunkumar.poosala\source\repos\dotnetcore_SampleConsoleApp\dotnetcore_SampleConsoleApp\obj\Release\netcoreapp2.1\dotnetcore_SampleConsoleApp.csprojAssemblyReference.cache
+C:\Users\varunkumar.poosala\source\repos\dotnetcore_SampleConsoleApp\dotnetcore_SampleConsoleApp\obj\Release\netcoreapp2.1\dotnetcore_SampleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\varunkumar.poosala\source\repos\dotnetcore_SampleConsoleApp\dotnetcore_SampleConsoleApp\obj\Release\netcoreapp2.1\dotnetcore_SampleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\varunkumar.poosala\source\repos\dotnetcore_SampleConsoleApp\dotnetcore_SampleConsoleApp\obj\Release\netcoreapp2.1\dotnetcore_SampleConsoleApp.AssemblyInfo.cs
+C:\Users\varunkumar.poosala\source\repos\dotnetcore_SampleConsoleApp\dotnetcore_SampleConsoleApp\obj\Release\netcoreapp2.1\dotnetcore_SampleConsoleApp.dll
+C:\Users\varunkumar.poosala\source\repos\dotnetcore_SampleConsoleApp\dotnetcore_SampleConsoleApp\obj\Release\netcoreapp2.1\dotnetcore_SampleConsoleApp.pdb

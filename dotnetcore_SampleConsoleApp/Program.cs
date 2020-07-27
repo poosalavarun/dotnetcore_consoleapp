@@ -18,11 +18,11 @@ namespace dotnetcore_SampleConsoleApp
                 MailMessage message = new MailMessage();
                 SmtpClient smtp = new SmtpClient();
                 message.From = new MailAddress("varun.poosala595@gmail.com");
-                message.To.Add(new MailAddress("varunkumar.poosala@ggktech.com"));
+                message.To.Add(new MailAddress("archer.murali@gmail.com"));
                 message.Subject = "Sample mail";
                 message.IsBodyHtml = true; //to make message body as html  
                 message.Body = "<html><body><h2>Welcome to my world</h2></body></html>";
-                smtp.Port = 587;
+                smtp.Port = 465;
                 smtp.Host = "smtp.gmail.com"; //for gmail host  
                 smtp.EnableSsl = true;
                 smtp.UseDefaultCredentials = false;

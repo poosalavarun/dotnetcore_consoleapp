@@ -28,8 +28,9 @@ namespace dotnetcore_SampleConsoleApp
                 smtp.UseDefaultCredentials = false;
                 smtp.Credentials = new NetworkCredential("varun.poosala595@gmail.com", "Ggku2sys24");
                 smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
-                smtp.Send(message);
+               // smtp.Send(message);
                 Console.WriteLine("successfully sent");
+                Console.WriteLine(2+3);
             }
             catch (Exception ex)
             {

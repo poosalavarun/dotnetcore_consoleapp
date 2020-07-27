@@ -33,7 +33,7 @@ namespace dotnetcore_SampleConsoleApp
             }
             catch (Exception ex)
             {
-                 Console.WriteLine("Failed");
+                 Console.WriteLine("Failed" + ex);
             }
         }
 

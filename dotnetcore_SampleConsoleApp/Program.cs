@@ -22,7 +22,7 @@ namespace dotnetcore_SampleConsoleApp
                 message.Subject = "Sample mail";
                 message.IsBodyHtml = true; //to make message body as html  
                 message.Body = "<html><body><h2>Welcome to my world</h2></body></html>";
-                smtp.Port = 465;
+                smtp.Port = 587;
                 smtp.Host = "smtp.gmail.com"; //for gmail host  
                 smtp.EnableSsl = true;
                 smtp.UseDefaultCredentials = false;
